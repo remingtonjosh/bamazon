@@ -4,16 +4,20 @@
 
 #
 
-# HOW TO USE BAMAZON:
+# -HOW TO USE BAMAZON-
 
-## View your selected store products: 
+## 1. View your selected store products: node bamazonCustomer.js
 
-![Logo](BAMAZONLOGO.png)
+![Logo](1.png)
 
-## Select your product:
+## 2. Select your product:
 
-![Logo](BAMAZONLOGO.png)
+![Logo](2.png)
 
-## Your item is purchased: 
+## 3. Your item is purchased: 
 
-![Logo](BAMAZONLOGO.png)
+![Logo](3.png)
+
+
+# Your Records will be shipped to you within 1-3 business days. Thank you!
+
